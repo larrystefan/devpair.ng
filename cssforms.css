@@ -1,0 +1,21 @@
+table{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid black;
+    padding: 5px;
+}
+
+thead{
+    background-color:rgb(98, 98, 110);
+}
+tfoot{
+    background-color:indigo;
+    text-align:center;
+}
+body{
+    color: rgb(238, 244, 241);
+    background-color: #948872;
+}
